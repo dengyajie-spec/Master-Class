@@ -53,8 +53,11 @@ Note: This project includes a pre-modified configuration file
 
 ![U 3S56VGLY@@BUT~456C)B8](https://github.com/user-attachments/assets/19f9ebca-fccf-4bc5-89ef-a10bd51e9af3)
 
-[<img src="URL1" width="49%">](URL1) 
-[<img src="URL2" width="49%">](URL2)
+<!-- 固定宽度（高度自适应） -->
+<img src="https://github.com/user-attachments/assets/1fdb86bd-1249-4bc2-9d89-2f3907ca9641" width="300px">
+
+<!-- 同时设置宽高 -->
+<img src="https://github.com/user-attachments/assets/19f9ebca-fccf-4bc5-89ef-a10bd51e9af3" width="400px" height="250px">
 
 
 ## 2. UE5 Interactive Project Synthesis Based on MHC-Talker
