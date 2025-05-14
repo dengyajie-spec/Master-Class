@@ -1,0 +1,3 @@
+[submodule "external/UniTalker"]
+	path = external/UniTalker
+	url = git@github.com:X-niper/UniTalker.git
