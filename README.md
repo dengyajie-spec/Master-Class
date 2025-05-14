@@ -66,4 +66,47 @@ For more detailed visual comparisons, please refer to the test videos included i
 
 ## 2. UE5 Interactive Project Synthesis Based on MHC-Talker
 
+This project integrates MHC-Talker, MetaHuman, and DeepSeek technologies. Below is the implementation workflow.
+
+### 2.1 ​Download and Installation of MHC_Talker
+
+(1) Apply for Usage Permission
+
+Go to [Bilibili] ([https://space.bilibili.com/XXXXXX](https://space.bilibili.com/3461577814575898)), find YX-Interact's official account, send an application to obtain the download link and Token code.
+
+(2) Installation
+
+- After downloading the plugin, unzip it and place the MHC_Talker folder into the Plugins directory of your project (if the folder does not exist, manually create a Plugins folder).
+- Copy the following code and paste it at the bottom of the DefaultEngine.ini file in the Config directory of your UE project:
+
+  [Voice]  
+bEnabled=true  
+
+[SystemSettings]  
+voice.SilenceDetectionThreshold=0.01  
+voice.MicNoiseGateThreshold=0.01  
+
+[/Script/Engine.GarbageCollectionSettings]  
+gc.MaxObjectsInGame=25165824  
+
+(3) Enable the Plugin
+
+- Open the plugin panel, check whether the MHC_Talker plugin is ticked.
+- Find MHC_Talker in the plugin bar and enter the Token code to complete the activation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
