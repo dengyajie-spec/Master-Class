@@ -19,6 +19,8 @@ This project is divided into two parts：
 
   For detailed usage guidelines, please refer to the [UniTalker](https://github.com/X-niper/UniTalker) .
 
+  （"UniTalker is now available in the external/ directory, linked directly from its original GitHub repository."）
+
 ### 1.2 Parameter Optimization and Model Training​
 
 ## 2. UE5 Interactive Project Synthesis Based on MHC-Talker
