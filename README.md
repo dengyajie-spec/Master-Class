@@ -23,9 +23,16 @@ This project is divided into two parts：
 
 ### 1.2 Model Training​ and Parameter Optimization
 
-（1） Use UniTalker's pre-trained model to generate a demo:
-   ```bash
-   python -m main.demo --config config/unitalker.yaml
+   (1) Use UniTalker's pre-trained model to generate a demo
+
+   (2) Configuration Setup​​
+ Modify config/unitalker.yaml to specify:
+- Dataset: D7 (provided by UniTalker, but different from the model's default dataset)
+- Training epochs
+- Output paths
+Note: This project includes a pre-modified configuration file
+
+   (3)
 
 
 ## 2. UE5 Interactive Project Synthesis Based on MHC-Talker
