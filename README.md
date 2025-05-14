@@ -8,20 +8,7 @@ This project is divided into two parts：
 
 ## 1. Unitalker Parameter Comparison Experiment
 
-**Experimental Purpose**  
-UniTalker is designed to generate realistic facial animations from speech input, enabling natural lip-sync and expressive facial movements for virtual avatars.
-
-**Methodology**  
-- Employs transformer-based neural networks  
-- Processes both speech features and emotion cues  
-- Outputs synchronized 3D facial mesh animations  
-
-**Datasets**  
-- Main: VOCASET (speech-animation pairs)  
-- Supplementary: BIWI (emotional expressions)  
-- Custom D7 dataset (enhanced emotional variations)  
-
-The framework achieves real-time performance while maintaining high visual quality.
+UniTalker is an open-source implementation of a Transformer-based neural architecture for speech-driven facial animation synthesis, providing pre-trained models trained on seven datasets (VOCASET, BIWI, etc.)
 
 ### 1.1 Environment and Usage Instructions​
 
