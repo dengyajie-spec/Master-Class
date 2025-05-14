@@ -10,12 +10,12 @@ This project is divided into two parts：
 
 ### 1.1 Environment and Usage Instructions​
 
-Linux
-Python 3.10
-Pytorch 2.2.0
-CUDA 12.1
-transformers 4.39.3
-Pytorch3d 0.7.7 
+-Linux
+-Python 3.10
+-Pytorch 2.2.0
+-CUDA 12.1
+-transformers 4.39.3
+-Pytorch3d 0.7.7 
 
 ## 2. UE5 Interactive Project Synthesis Based on MHC-Talker
 
