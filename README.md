@@ -8,7 +8,7 @@ This project is divided into two parts：
 
 ## 1. Unitalker Parameter Comparison Experiment
 
-UniTalker is an open-source implementation of a Transformer-based neural architecture for speech-driven facial animation synthesis, providing pre-trained models trained on seven datasets (VOCASET, BIWI, etc.)
+[UniTalker](https://github.com/X-niper/UniTalker) is an open-source implementation of a Transformer-based neural architecture for speech-driven facial animation synthesis, providing pre-trained models trained on seven datasets (VOCASET, BIWI, etc.)
 
 ### 1.1 Environment and Usage Instructions​
 
@@ -46,6 +46,12 @@ Note: This project includes a pre-modified configuration file
    (5) Render Facial Animation
 
    python -m main.render ./test_results1/demo.npz ./test_audios ./test_results/
+
+### 1.3 ​​Visual Results Comparison​
+
+![J9WE S9UJ(`C(I1G8AUT6@8](https://github.com/user-attachments/assets/1fdb86bd-1249-4bc2-9d89-2f3907ca9641)
+
+![U 3S56VGLY@@BUT~456C)B8](https://github.com/user-attachments/assets/19f9ebca-fccf-4bc5-89ef-a10bd51e9af3)
 
 
 ## 2. UE5 Interactive Project Synthesis Based on MHC-Talker
