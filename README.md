@@ -21,7 +21,12 @@ This project is divided into two parts：
 
   （"UniTalker is now available in the external/ directory, linked directly from its original GitHub repository."）
 
-### 1.2 Parameter Optimization and Model Training​
+### 1.2 Model Training​ and Parameter Optimization
+
+（1） Use UniTalker's pre-trained model to generate a demo:
+   ```bash
+   python -m main.demo --config config/unitalker.yaml
+
 
 ## 2. UE5 Interactive Project Synthesis Based on MHC-Talker
 
