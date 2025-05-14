@@ -56,6 +56,9 @@ Note: This project includes a pre-modified configuration file
 <!--  固定宽度（高度自适应 -->
 <img src="https://github.com/user-attachments/assets/19f9ebca-fccf-4bc5-89ef-a10bd51e9af3" width="300px">
 
+​​Visual Comparison Results:​​
+Under identical speech input, the two models show only subtle differences. During prolonged speech sequences, ​​our trained model demonstrates more natural eye-blinking frequencies​​ that better approximate human behavior.
+
 
 ## 2. UE5 Interactive Project Synthesis Based on MHC-Talker
 
