@@ -1,5 +1,11 @@
 # Learning and Research on Audio-Driven Facial Animation
 
-Research-oriented Development (suitable for long-term technological exploration)
+This project is divided into two parts：
 
-Product-oriented Applied Research (suitable for rapid productization)
+1.Research-oriented Development (suitable for long-term technological exploration)
+
+2.Product-oriented Applied Research (suitable for rapid productization)
+
+## Unitalker Parameter Comparison Experiment
+
+
