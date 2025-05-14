@@ -15,7 +15,9 @@ This project is divided into two parts：
 - Pytorch 2.2.0
 - CUDA 12.1
 - transformers 4.39.3
-- Pytorch3d 0.7.7 
+- Pytorch3d 0.7.7
+
+  For detailed usage guidelines, please refer to the [UniTalker](https://github.com/X-niper/UniTalker) .
 
 ## 2. UE5 Interactive Project Synthesis Based on MHC-Talker
 
