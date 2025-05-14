@@ -2,9 +2,9 @@
 
 This project is divided into two parts：
 
-1.Unitalker Parameter Comparison Experiment (Research-oriented Development ,suitable for long-term technological exploration)
+1.Unitalker Parameter Comparison Experiment ( Research-oriented Development )
 
-2.UE5 Interactive Project Synthesis Based on MHC-Talker(Product-oriented Applied Research ,suitable for rapid productization)
+2.UE5 Interactive Project Synthesis Based on MHC-Talker( Product-oriented Applied Research )
 
 ## 1. Unitalker Parameter Comparison Experiment
 
