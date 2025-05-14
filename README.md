@@ -8,6 +8,21 @@ This project is divided into two parts：
 
 ## 1. Unitalker Parameter Comparison Experiment
 
+**Experimental Purpose**  
+UniTalker is designed to generate realistic facial animations from speech input, enabling natural lip-sync and expressive facial movements for virtual avatars.
+
+**Methodology**  
+- Employs transformer-based neural networks  
+- Processes both speech features and emotion cues  
+- Outputs synchronized 3D facial mesh animations  
+
+**Datasets**  
+- Main: VOCASET (speech-animation pairs)  
+- Supplementary: BIWI (emotional expressions)  
+- Custom D7 dataset (enhanced emotional variations)  
+
+The framework achieves real-time performance while maintaining high visual quality.
+
 ### 1.1 Environment and Usage Instructions​
 
 - Linux
@@ -30,9 +45,20 @@ This project is divided into two parts：
 - Dataset: D7 (provided by UniTalker, but different from the model's default dataset)
 - Training epochs
 - Output paths
+  
 Note: This project includes a pre-modified configuration file
 
-   (3)
+   (3) Model Training
+
+   python -m main.train --config config/unitalker.yaml
+
+   (4) ​​Generate Test Data
+
+   python -m main.demo --test_out_path ./test_results1/demo.npz
+
+   (5) Render Facial Animation
+
+   python -m main.render ./test_results1/demo.npz ./test_audios ./test_results/
 
 
 ## 2. UE5 Interactive Project Synthesis Based on MHC-Talker
