@@ -103,10 +103,14 @@ Note: For detailed installation steps, please refer to the [MHC-Talker Installat
 - Start a new project and create a folder. Import a facial photo into this folder.
 - Create a material, double-click to open it, drag the photo into the material editor, link it to the Self-Illumination node, and save the material.
 
+![T_4NQU J}%~ Y%RA%M@KI0E](https://github.com/user-attachments/assets/5e5e8997-f51c-4598-9c58-efcc18b6182f)
+
 (2) Apply Material to a Cube
 
 - Create a cube and drag it into the folder.
 - Open the cube's settings, drag the material created in Step 1 into the cube's material slot to apply it.
+
+![$U{6999FGKRY6JAU`4OS( 4](https://github.com/user-attachments/assets/991b9da3-63ec-4b2e-9ba1-a997c5cbe8fb)
 
 (3) Use MetaHuman Plugin for Tracking
 
@@ -114,15 +118,21 @@ Note: For detailed installation steps, please refer to the [MHC-Talker Installat
 - Click on the Components in the mesh settings and select the cube created in Step 2.
 - Align one front face of the cube with the screen. First, click Advance Frame at the top, then enable Auto-Track in the lower Frame window.
 
+![JJUWHYFK(ERJP7YQ40DFH_6](https://github.com/user-attachments/assets/aecd022d-1532-4c1b-b5c5-c95663822074)
+
 (4) Solve and Preview the Model
 
 - After correctly identifying the mouth and eyes, click Solve on the MetaHuman instance.
 - Switch the viewport to preview the generated model.
 
+![_AOA0O44BL)9_AR90RZEH~A](https://github.com/user-attachments/assets/519b6660-3fcb-4e8a-bbf0-ce56c716bd81)
+
 (5) Convert Mesh to MetaHuman
 
 - Once the model is confirmed to be correct, select a body model.
 - Convert the mesh to a MetaHuman model through the plugin.
+
+![NAR`~6J%3BIKCURKT`0VTO3](https://github.com/user-attachments/assets/7b8bf52f-5cb1-4bef-969d-098342102632)
 
 (6) Add Details on MetaHuman Website
 
