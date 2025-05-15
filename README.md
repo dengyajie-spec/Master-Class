@@ -66,7 +66,7 @@ For more detailed visual comparisons, please refer to the test videos included i
 
 ## 2. UE5 Interactive Project Synthesis Based on MHC-Talker
 
-This project integrates MHC-Talker, MetaHuman, and DeepSeek technologies. Below is the implementation workflow.
+This project integrates MHC-Talker and MetaHuman technologies. Below is the implementation workflow.
 
 ### 2.1 ​Download and Installation of MHC_Talker
 
