@@ -132,7 +132,7 @@ Note: For detailed installation steps, please refer to the [MHC-Talker Installat
 - Once the model is confirmed to be correct, select a body model.
 - Convert the mesh to a MetaHuman model through the plugin.
 
-![NAR`~6J%3BIKCURKT`0VTO3](https://github.com/user-attachments/assets/7b8bf52f-5cb1-4bef-969d-098342102632)
+<img src="https://github.com/user-attachments/assets/7b8bf52f-5cb1-4bef-969d-098342102632" width="300px">
 
 (6) Add Details on MetaHuman Website
 
