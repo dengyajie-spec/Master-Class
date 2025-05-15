@@ -138,6 +138,8 @@ Note: For detailed installation steps, please refer to the [MHC-Talker Installat
 - After the mesh conversion is complete, log in to the MetaHuman Official Website.
 - Select the newly generated character model and use the website’s features to add clothing and details.
 
+<img src="https://github.com/user-attachments/assets/9965764d-1bb2-4969-914d-1459fb2e86a1" width="300px">
+
 
 
 
