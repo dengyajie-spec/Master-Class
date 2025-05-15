@@ -38,7 +38,6 @@ Note: This project includes a pre-modified configuration file
    (3) Model Training
    ```
    python -m main.train --config config/unitalker.yaml
-
    ```
 
    (4) ​​Generate Test Data
