@@ -148,6 +148,14 @@ After opening UE5 and importing the MetaHuman model, select the MetaHuman-standa
 
 <img src="https://github.com/user-attachments/assets/ef13a9d2-be6f-413d-b4c6-f913ec600fc9" width="300px">
 
+## refs
+
+@article{huang2024midi,
+title={MIDI: Multi-Instance Diffusion for Single Image to 3D Scene Generation},
+author={Huang, Zehuan and Guo, Yuanchen and An, Xingqiao and Yang, Yunhan and Li, Yangguang and Zou, Zixin and Liang, Ding and Liu, Xihui and Cao, Yanpei and Sheng, Lu},
+journal={arXiv preprint arXiv:2412.03558},
+year={2024}
+}
 
 
 
