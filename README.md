@@ -36,17 +36,19 @@ This project is divided into two parts：
 Note: This project includes a pre-modified configuration file
 
    (3) Model Training
-
+   ```
    python -m main.train --config config/unitalker.yaml
 
+   ```
+
    (4) ​​Generate Test Data
-
+   ```
    python -m main.demo --test_out_path ./test_results1/demo.npz
-
+   ```
    (5) Render Facial Animation
-
+   ```
    python -m main.render ./test_results1/demo.npz ./test_audios ./test_results/
-
+   ```
 ### 1.3 ​​Visual Results Comparison​
 
 
@@ -78,7 +80,7 @@ Go to [Bilibili](https://space.bilibili.com/XXXXXX), find YX-Interact's official
 
 - After downloading the plugin, unzip it and place the MHC_Talker folder into the Plugins directory of your project (if the folder does not exist, manually create a Plugins folder).
 - Copy the following code and paste it at the bottom of the DefaultEngine.ini file in the Config directory of your UE project:
-
+```
   [Voice]  
 bEnabled=true  
 
@@ -88,7 +90,7 @@ voice.MicNoiseGateThreshold=0.01
 
 [/Script/Engine.GarbageCollectionSettings]  
 gc.MaxObjectsInGame=25165824  
-
+```
 (3) Enable the Plugin
 
 - Open the plugin panel, check whether the MHC_Talker plugin is ticked.
