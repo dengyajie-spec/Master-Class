@@ -72,7 +72,7 @@ This project integrates MHC-Talker, MetaHuman, and DeepSeek technologies. Below 
 
 (1) Apply for Usage Permission
 
-Go to [Bilibili] ([https://space.bilibili.com/XXXXXX](https://space.bilibili.com/3461577814575898)), find YX-Interact's official account, send an application to obtain the download link and Token code.
+Go to [Bilibili]([https://space.bilibili.com/XXXXXX](https://space.bilibili.com/3461577814575898)), find YX-Interact's official account, send an application to obtain the download link and Token code.
 
 (2) Installation
 
