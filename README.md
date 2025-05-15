@@ -118,14 +118,14 @@ Note: For detailed installation steps, please refer to the [MHC-Talker Installat
 - Click on the Components in the mesh settings and select the cube created in Step 2.
 - Align one front face of the cube with the screen. First, click Advance Frame at the top, then enable Auto-Track in the lower Frame window.
 
-![JJUWHYFK(ERJP7YQ40DFH_6](https://github.com/user-attachments/assets/1d9c3b11-5fac-4227-a4fd-463e29cc9b5f)
+<img src="https://github.com/user-attachments/assets/1d9c3b11-5fac-4227-a4fd-463e29cc9b5f" width="300px">  
 
 (4) Solve and Preview the Model
 
 - After correctly identifying the mouth and eyes, click Solve on the MetaHuman instance.
 - Switch the viewport to preview the generated model.
 
-![_AOA0O44BL)9_AR90RZEH~A](https://github.com/user-attachments/assets/519b6660-3fcb-4e8a-bbf0-ce56c716bd81)
+<img src="https://github.com/user-attachments/assets/519b6660-3fcb-4e8a-bbf0-ce56c716bd81" width="300px">  
 
 (5) Convert Mesh to MetaHuman
 
