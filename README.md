@@ -103,14 +103,13 @@ Note: For detailed installation steps, please refer to the [MHC-Talker Installat
 - Start a new project and create a folder. Import a facial photo into this folder.
 - Create a material, double-click to open it, drag the photo into the material editor, link it to the Self-Illumination node, and save the material.
 
-![T_4NQU J}%~ Y%RA%M@KI0E](https://github.com/user-attachments/assets/5e5e8997-f51c-4598-9c58-efcc18b6182f)
-
+<img src="https://github.com/user-attachments/assets/991b9da3-63ec-4b2e-9ba1-a997c5cbe8fb" width="300px">  
 (2) Apply Material to a Cube
 
 - Create a cube and drag it into the folder.
 - Open the cube's settings, drag the material created in Step 1 into the cube's material slot to apply it.
 
-![$U{6999FGKRY6JAU`4OS( 4](https://github.com/user-attachments/assets/991b9da3-63ec-4b2e-9ba1-a997c5cbe8fb)
+<img src="https://github.com/user-attachments/assets/991b9da3-63ec-4b2e-9ba1-a997c5cbe8fb" width="300px">  
 
 (3) Use MetaHuman Plugin for Tracking
 
