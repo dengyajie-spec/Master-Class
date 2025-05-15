@@ -94,6 +94,50 @@ gc.MaxObjectsInGame=25165824
 - Open the plugin panel, check whether the MHC_Talker plugin is ticked.
 - Find MHC_Talker in the plugin bar and enter the Token code to complete the activation.
 
+### 2.2 Creating a MetaHuman Digital Human
+
+(1) Create a New Project and Material
+
+- Start a new project and create a folder. Import a facial photo into this folder.
+- Create a material, double-click to open it, drag the photo into the material editor, link it to the Self-Illumination node, and save the material.
+
+(2) Apply Material to a Cube
+
+- Create a cube and drag it into the folder.
+- Open the cube's settings, drag the material created in Step 1 into the cube's material slot to apply it.
+
+(3) Use MetaHuman Plugin for Tracking
+
+- Activate the MetaHuman plugin and create a MetaHuman instance.
+- Click on the Components in the mesh settings and select the cube created in Step 2.
+- Align one front face of the cube with the screen. First, click Advance Frame at the top, then enable Auto-Track in the lower Frame window.
+
+(4) Solve and Preview the Model
+
+- After correctly identifying the mouth and eyes, click Solve on the MetaHuman instance.
+- Switch the viewport to preview the generated model.
+
+(5) Convert Mesh to MetaHuman
+
+- Once the model is confirmed to be correct, select a body model.
+- Convert the mesh to a MetaHuman model through the plugin.
+
+(6) Add Details on MetaHuman Website
+
+- After the mesh conversion is complete, log in to the MetaHuman Official Website.
+- Select the newly generated character model and use the website’s features to add clothing and details.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
