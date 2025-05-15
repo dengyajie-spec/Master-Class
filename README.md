@@ -118,7 +118,7 @@ Note: For detailed installation steps, please refer to the [MHC-Talker Installat
 - Click on the Components in the mesh settings and select the cube created in Step 2.
 - Align one front face of the cube with the screen. First, click Advance Frame at the top, then enable Auto-Track in the lower Frame window.
 
-<img src="https://github.com/user-attachments/assets/aecd022d-1532-4c1b-b5c5-c95663822074"width=300">
+![Image description](https://github.com/user-attachments/assets/aecd022d-1532-4c1b-b5c5-c95663822074){width="300" height="200"}  
 
 (4) Solve and Preview the Model
 
