@@ -94,6 +94,8 @@ gc.MaxObjectsInGame=25165824
 - Open the plugin panel, check whether the MHC_Talker plugin is ticked.
 - Find MHC_Talker in the plugin bar and enter the Token code to complete the activation.
 
+Note: For detailed installation steps, please refer to the [MHC-Talker Installation Guide](https://yx-interact.yuque.com/org-wiki-yx-interact-pfv67o/mhc/tv9zrfpl16nzk61v).
+
 ### 2.2 Creating a MetaHuman Digital Human
 
 (1) Create a New Project and Material
