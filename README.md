@@ -140,9 +140,13 @@ Note: For detailed installation steps, please refer to the [MHC-Talker Installat
 
 <img src="https://github.com/user-attachments/assets/9965764d-1bb2-4969-914d-1459fb2e86a1" width="300px">
 
+### 2.3 Project Integration
 
+After opening UE5 and importing the MetaHuman model, select the MetaHuman-standard character blueprint, right-click → Scripted Asset Actions → Spawn MHC Talker.
 
+<img src="https://github.com/user-attachments/assets/7de78277-e404-482b-871c-fc26d55071ca" width="300px">
 
+<img src="https://github.com/user-attachments/assets/ef13a9d2-be6f-413d-b4c6-f913ec600fc9" width="300px">
 
 
 
