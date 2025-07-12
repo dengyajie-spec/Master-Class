@@ -19,13 +19,11 @@ This study optimizes the loss function configuration of the UniTalker speech-dri
 
   （"UniTalker is now available in the external/ directory, linked directly from its original GitHub repository."）
   
-### 1.2 Model Training​ and Parameter Optimization
+### 1.2 Modifying the Configuration File
 
-Optimization Strategy	Reconstruction Weight	PCA Weight	Blendshape Weight	Training Epochs
-Baseline (Group 1)	1.0	0.01	0.0001	100
-Reconstruction Enhancement (Group 2)	5.0	0.01	0.0001	100
-Regularization Enhancement (Group 3)	1.0	0.1	0.0001	100
-Hybrid Morphology Enhancement (Group 4)	1.0	0.01	0.001	100
+To investigate the impact of different loss function weight configurations on lip generation performance within the UniTalker framework, four experimental groups were designed with varying optimization strategies.（The four modified configuration files are placed in the config folder.）
+<img width="1036" height="476" alt="ZMTJ_NYZBVKLJEGCFDTBX W" src="https://github.com/user-attachments/assets/aa8d75f0-9507-4d8f-9386-46677cd58594" />
+
 
 ### 1.3 Model Training​ and Parameter Optimization
 
