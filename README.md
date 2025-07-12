@@ -44,6 +44,8 @@ Note: This project includes a pre-modified configuration file
    ```
    python -m main.render ./test_results1/demo.npz ./test_audios ./test_results/
    ```
+
+This command reads the previously generated NPZ-formatted prediction results, combines them with the audio files stored in the ./test_audios directory, and performs video rendering. The final animated video is saved to the ./test_results（1/2/3/4）/ directory.
 ### 1.3 ​​Visual Results Comparison​
 
 
