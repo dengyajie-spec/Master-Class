@@ -60,10 +60,10 @@ During the training of the second group of models, all data related to the loss 
 
 
 <!-- 固定宽度（高度自适应） -->
-<img src="https://github.com/user-attachments/assets/1fdb86bd-1249-4bc2-9d89-2f3907ca9641" width="300px">
+<img width="904" height="375" alt="KNO2{$11OHSZ{J9)LT`FYYT" src="https://github.com/user-attachments/assets/5e98f67c-c509-4753-adcd-dab8a36c1d0d" />
 
 <!--  固定宽度（高度自适应 -->
-<img src="https://github.com/user-attachments/assets/19f9ebca-fccf-4bc5-89ef-a10bd51e9af3" width="300px">
+<img width="909" height="373" alt="DYQ~X3I8}($CJ)VU%613_Z5" src="https://github.com/user-attachments/assets/53ca65ea-d525-48be-a07d-f679ab444811" />
 
 
 ​​Visual Comparison Results:​​
