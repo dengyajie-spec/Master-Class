@@ -72,6 +72,8 @@ During the training of the second group of models, all data related to the loss 
 <img width="909" height="373" alt="DYQ~X3I8}($CJ)VU%613_Z5" src="https://github.com/user-attachments/assets/53ca65ea-d525-48be-a07d-f679ab444811" />
 
 ### 1.6  Results ​
+<img width="851" height="357" alt="3ZQC H_IO{R}QJ3(H)FJD4Y" src="https://github.com/user-attachments/assets/273a27ed-ead7-40d2-853e-b09ae22e273f" />
+
 
 The ranking of conclusions obtained based on the previous analysis and comparison is as follows: Group 3 (Regularization Enhancement) > Group 1 (Baseline) > Group 2 (Reconstruction Enhancement) > Group 4 (Hybrid Enhancement).
 
