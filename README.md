@@ -18,8 +18,16 @@ This study optimizes the loss function configuration of the UniTalker speech-dri
   For detailed usage guidelines, please refer to the [UniTalker](https://github.com/X-niper/UniTalker) .
 
   （"UniTalker is now available in the external/ directory, linked directly from its original GitHub repository."）
-
+  
 ### 1.2 Model Training​ and Parameter Optimization
+
+Optimization Strategy	Reconstruction Weight	PCA Weight	Blendshape Weight	Training Epochs
+Baseline (Group 1)	1.0	0.01	0.0001	100
+Reconstruction Enhancement (Group 2)	5.0	0.01	0.0001	100
+Regularization Enhancement (Group 3)	1.0	0.1	0.0001	100
+Hybrid Morphology Enhancement (Group 4)	1.0	0.01	0.001	100
+
+### 1.3 Model Training​ and Parameter Optimization
 
    (1) Use UniTalker's pre-trained model to generate a demo
 
@@ -46,7 +54,7 @@ Note: This project includes a pre-modified configuration file
    ```
 
 This command reads the previously generated NPZ-formatted prediction results, combines them with the audio files stored in the ./test_audios directory, and performs video rendering. The final animated video is saved to the ./test_results（1/2/3/4）/ directory.
-### 1.3 Organizing Data
+### 1.4 Organizing Data
 During the training of the second group of models, all data related to the loss function have been saved along with the model in the train.log file under the results folder. We run the experiment-analysis（in the experiment_analysis folder on GitHub）.ipynb file, and the generated data plots are stored in the experiment_analysis folder.
 <img width="2066" height="244" alt="experiment_summary" src="https://github.com/user-attachments/assets/a2d51991-676f-45cb-83f0-311cc59f38d7" />
 
@@ -56,7 +64,7 @@ During the training of the second group of models, all data related to the loss 
 
 <img width="3600" height="3600" alt="lve_lvd_comparison" src="https://github.com/user-attachments/assets/24e1b7eb-d357-421a-b89a-2f9ab3afa377" />
 
-### 1.4 ​​Visual Results Comparison​
+### 1.5 ​​Visual Results Comparison​
 
 
 <!-- 固定宽度（高度自适应） -->
@@ -65,12 +73,9 @@ During the training of the second group of models, all data related to the loss 
 <!--  固定宽度（高度自适应 -->
 <img width="909" height="373" alt="DYQ~X3I8}($CJ)VU%613_Z5" src="https://github.com/user-attachments/assets/53ca65ea-d525-48be-a07d-f679ab444811" />
 
+### 1.6  Results ​
 
-​​Visual Comparison Results:​​
-
-Under identical speech input, the two models show only subtle differences. During prolonged speech sequences, ​​our trained model demonstrates more natural eye-blinking frequencies​​ that better approximate human behavior.
-
-For more detailed visual comparisons, please refer to the test videos included in this project.
+The ranking of conclusions obtained based on the previous analysis and comparison is as follows: Group 3 (Regularization Enhancement) > Group 1 (Baseline) > Group 2 (Reconstruction Enhancement) > Group 4 (Hybrid Enhancement).
 
 
 
