@@ -77,14 +77,23 @@ The ranking of conclusions obtained based on the previous analysis and compariso
 
 ### References
 Chen, J., Liu, Y., & Zhang, H. (2024). UniTalker: A unified multi-head architecture for cross-dataset audio-driven 3D facial animation. IEEE Transactions on Visualization and Computer Graphics.
+
 Chen, Y. & Liu, J. (2022). Kinematic feature evaluation for 3D facial animation: Beyond geometric error metrics. Computer Graphics Forum, 41(2), 145-158.
+
 Hussen, A., Smith, L., & Johnson, M. (2023). Neural network-based audio-visual fusion for 3D facial animation. Journal of Computer Vision and Image Understanding, 224, 103789.
+
 Li, S., & Wang, Q. (2018). Coupled Hidden Markov Model for speech-driven lip animation. Pattern Recognition Letters, 107, 56-63.
+
 Li, S. & Wang, Q. (2023). Dynamic loss weight adjustment for adaptive neural network training. IEEE Transactions on Neural Networks and Learning Systems, 34(5), 2103-2115.
+
 Song, X. (2022). Skeleton skinning-based 3D facial animation generation from 2D video and speech. Computers & Graphics, 102, 105-114.
+
 Xin, H., Yang, Z., & Wu, J. (2021). Knowledge-guided 3D blendshapes mapping for speech-video driven facial animation. ACM Transactions on Graphics, 40(4), 1-12.
+
 Smith, A., Jones, B. & Brown, C. (2022). Limitations of static loss weighting in deep learning for sequential data. Neural Computation, 34(8), 1623-1647.
+
 Zhang, H., Zhao, Y. & Wu, Z. (2021). A comprehensive evaluation framework for audio-driven 3D lip animation. ACM Transactions on Multimedia Computing, Communications, and Applications, 17(4), 1-22.
+
 Zhang, L., Zhao, Y., & Liu, J. (2020). Baum-Welch HMM inversion for refined visual parameter decoding in facial animation. Signal Processing: Image Communication, 88, 115918.
 
 
