@@ -48,13 +48,13 @@ Note: This project includes a pre-modified configuration file
 This command reads the previously generated NPZ-formatted prediction results, combines them with the audio files stored in the ./test_audios directory, and performs video rendering. The final animated video is saved to the ./test_results（1/2/3/4）/ directory.
 ### 1.3 Organizing Data
 During the training of the second group of models, all data related to the loss function have been saved along with the model in the train.log file under the results folder. We run the experiment-analysis（in the experiment_analysis folder on GitHub）.ipynb file, and the generated data plots are stored in the experiment_analysis folder.
-<img src="https://github.com/user-attachments/assets/a2d51991-676f-45cb-83f0-311cc59f38d7" width="300px">
+<img width="2066" height="244" alt="experiment_summary" src="https://github.com/user-attachments/assets/a2d51991-676f-45cb-83f0-311cc59f38d7" />
 
-<img src="https://github.com/user-attachments/assets/0ae71ea7-f843-4dda-99fb-d2dda2d509a2" width="300px">
+<img width="3000" height="1800" alt="convergence_speed" src="https://github.com/user-attachments/assets/0ae71ea7-f843-4dda-99fb-d2dda2d509a2" />
 
-<img src="https://github.com/user-attachments/assets/503ddb95-6676-4757-a0b5-ec62f2aee3ad" width="300px">
+<img width="3600" height="2400" alt="loss_comparison" src="https://github.com/user-attachments/assets/503ddb95-6676-4757-a0b5-ec62f2aee3ad" />
 
-<img src="https://github.com/user-attachments/assets/24e1b7eb-d357-421a-b89a-2f9ab3afa377" width="300px">
+<img width="3600" height="3600" alt="lve_lvd_comparison" src="https://github.com/user-attachments/assets/24e1b7eb-d357-421a-b89a-2f9ab3afa377" />
 
 ### 1.4 ​​Visual Results Comparison​
 
