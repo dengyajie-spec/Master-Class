@@ -2,6 +2,8 @@
 
 This study optimizes the loss function configuration of the UniTalker speech-driven facial animation framework through four experimental schemes with varying loss weights (baseline, reconstruction loss enhancement, PCA regularization enhancement, and hybrid morphology loss enhancement) on the D7 dataset. Combining quantitative evaluations (LVE, LVD) and qualitative visual assessments, it focuses on optimizing weights of rec_loss, pca_loss, and blendshape_loss. Results show increasing rec_weight to 5.0 improves lip synchronization accuracy by 12.7%, while PCA regularization balances overfitting and naturalness. The optimal configuration (rec_weight=5.0, pca_weight=0.01, blendshape_weight=0.0001) enhances virtual digital humans' lip realism while maintaining real-time performance, offering insights for multi-modal feature optimization in UniTalker.
 
+Download link for the experimental model：https://drive.google.com/drive/folders/1IUyx-qElutmqahodvG2_tRaVT99kJcH-?usp=drive_link
+
 ## 1. Unitalker Parameter Comparison Experiment
 
 [UniTalker](https://github.com/X-niper/UniTalker) is an open-source implementation of a Transformer-based neural architecture for speech-driven facial animation synthesis, providing pre-trained models trained on seven datasets (VOCASET, BIWI, etc.)
